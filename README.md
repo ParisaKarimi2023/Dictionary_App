@@ -1,2 +1,3 @@
 # Dictionary_App
 Dictionary Application
+The Dictionary Application is a software system designed to provide users with word definitions, meanings, and language support in a fast and user-friendly manner. The application helps users improve vocabulary, understand word meanings, and enhance language learning. This project demonstrates the use of programming concepts such as data handling, user input processing, and efficient search mechanisms. The Dictionary App can be implemented as a desktop, web, or mobile application and serves as a practical example of applying software development techniques to real-life problems.
